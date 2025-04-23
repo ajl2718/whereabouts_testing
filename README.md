@@ -11,6 +11,8 @@ Three datasets are used for comparison
 - Business locations in Australia: gyg_210624_geocoded.csv
 - Licensed venues in the state of Victoria, Australia: liquor.xlsx. This is from [VicGov's Open Data Portal](https://discover.data.vic.gov.au/dataset/victorian-liquor-licences-by-location)
 
+The first two datasets are used to assess accuracy while the third is to measure speed.
+
 ## Code
 The notebook `geocoder_comparison_220425.ipynb` contains the code to compare the performance of geocoding algorithms on these two datasets.
 
